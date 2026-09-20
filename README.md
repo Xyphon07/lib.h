@@ -1,2 +1,2 @@
 # lib.h
-c library written by me
+C HEADER ONLY LIBRARY 
